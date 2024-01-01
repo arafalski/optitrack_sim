@@ -9,8 +9,8 @@ import time
 import yaml
 import socket
 
-UDP_IP = "127.0.0.1"
-UDP_PORT = 5005
+UDP_IP = "192.168.110.2"
+UDP_PORT = 12111
 
 class MinimalPublisher(Node):
 
